@@ -22,3 +22,5 @@ Ide kattintva azonnal ki tudod próbálni a játékot: [Játék indítása](http
 1. Töltsd le a repóban található `.sb3` kiterjesztésű fájlt.
 2. Nyisd meg a [Scratch online szerkesztőjét](https://scratch.mit.edu/projects/editor/).
 3. A felső menüben kattints a **Fájl -> Töltés a számítógépről** lehetőségre, és nyisd meg a letöltött fájlt.
+
+![Kép](https://i.imgur.com/06OtWDZ.png)
